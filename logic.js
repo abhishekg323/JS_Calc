@@ -1,4 +1,4 @@
-let n1=0,n2=0;
+let n1,n2;
 let input = ()=>{
     n1=parseFloat(document.getElementById('inp1').value)
     n2=parseFloat(document.getElementById('inp2').value)

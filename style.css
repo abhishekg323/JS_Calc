@@ -1,7 +1,6 @@
-body{
+*{
     font-family: 'Ubuntu',sans-serif;
 }
-
 section{
     background-color: rgb(79, 81, 87);
     width: 500px;
@@ -32,7 +31,6 @@ section{
     height: 30px;
     box-sizing: border-box;
 }
-
 .grp{
     width: 80%;
     box-sizing: border-box;
@@ -49,7 +47,6 @@ section{
     background-color: rgb(129, 193, 248);
     border: none;
 }
-
 .controls:active{
     background-color: rgb(154, 199, 238);
 }
